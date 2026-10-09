@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-labelledby="title desc">
+  <title id="title">Firefly Grove</title>
+  <desc id="desc">An animated firefly screensaver for television with no ads, analytics, or tracking.</desc>
+  <defs><linearGradient id="night" x2="0" y2="1"><stop stop-color="#0c0a09"/><stop offset="1" stop-color="#1c1917"/></linearGradient><radialGradient id="glow"><stop stop-color="#fff2bd"/><stop offset=".2" stop-color="#ffd46a" stop-opacity=".95"/><stop offset="1" stop-color="#b7ef61" stop-opacity="0"/></radialGradient></defs>
+  <rect width="800" height="200" rx="16" fill="url(#night)"/>
+  <g fill="url(#glow)"><circle cx="625" cy="81" r="53"/><circle cx="704" cy="132" r="32"/><circle cx="564" cy="142" r="25"/></g>
+  <g fill="#fff2bd"><circle cx="625" cy="81" r="3"/><circle cx="704" cy="132" r="2.5"/><circle cx="564" cy="142" r="2"/></g>
+  <path d="M625 86q-18 23-8 45m18-44q19 24 8 44M704 136q-14 18-5 33m14-33q15 17 7 33M564 146q-11 15-4 26m13-26q10 15 5 26" fill="none" stroke="#b7ef61" stroke-opacity=".6" stroke-width="2"/>
+  <path d="M0 178q115-22 230 0t230-2t340 0v24H0Z" fill="#17241c"/>
+  <text x="40" y="78" fill="#fff" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="40" font-weight="700" letter-spacing="-.5">Firefly Grove</text>
+  <text x="42" y="108" fill="#a8a29e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14">Animated fireflies for Fire TV, Android TV and Google TV</text>
+  <g font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10" font-weight="500" text-anchor="middle"><rect x="40" y="130" width="115" height="22" rx="11" fill="#1a1a1a" opacity=".8" stroke="#4ade80" stroke-width=".8"/><text x="97" y="144" fill="#4ade80">Animated scene</text><rect x="163" y="130" width="132" height="22" rx="11" fill="#1a1a1a" opacity=".8" stroke="#fbbf24" stroke-width=".8"/><text x="229" y="144" fill="#fbbf24">No ads or tracking</text></g>
+</svg>
